@@ -1,7 +1,7 @@
 # VIRTUAL-MACHINES-
-EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
+## EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
 
-Aim:
+### Aim:
 To move the files between virtual machine.
  You can move files between virtual machines in several ways:
 •	You can copy files using network utilities as you would between physical computers on your network. To do this between two virtual machine:
@@ -57,6 +57,6 @@ Step 2. Setup File Sharing on VirtualBox Guest Machine.
 
 5. You 're done! To access the shared folder from the Guest OS, open Windows Explorer and under the 'Network locations' you should see a new network drive that corresponds to the shared folder on the Host OS.
 
-Result:
+### Result:
 
 Thus the virtual machine files are moved to another VM
